@@ -10,5 +10,5 @@
 
 ## 課程筆記區 
 ## 作業連結區
-[WEEK 2 (9/12) 個人靜態網站建立](https://belle93324.github.io/myweb/)
+[WEEK 2 (9/12) 個人靜態網站建立] （https://belle93324.github.io/blog/）
 ## 專題連結區
