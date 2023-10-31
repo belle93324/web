@@ -10,8 +10,7 @@
 
 ## 課程筆記區 
 ## 作業連結區
-[HW1 個人靜態網站建立]https://belle93324.github.io/blog/
-
+[HW1 個人靜態網站建立]https://belle93324.github.io/mywebsite/
 [HW3 JavaScript組件]https://youtu.be/suU6u4tBIbc
 
 [HW3 note](hw3note.pdf)
